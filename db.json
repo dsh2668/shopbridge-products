@@ -1,44 +1,40 @@
 {
-    "products": [
+    "items": [
         {
             "id": "1",
-            "firstName": "Animesh",
-            "lastName": "Roy",
-            "email": "ani@gmail.com",
-            "age": 21,
-            "companyId": "1"
+            "name": "Water 500ml",
+            "desc": "Mineral Water 500ml",
+            "rg_price": 10
         },
         {
             "id": "2",
-            "firstName": "Rahul",
-            "lastName": "Sharma",
-            "email": "rahul@gmail.com",
-            "age": 20,
-            "companyId": "1"
+            "name": "Water 1L",
+            "desc": "Mineral Water 1L",
+            "rg_price": 20
         },
         {
             "id": "3",
-            "firstName": "Mark",
-            "lastName": "Tyson",
-            "email": "lipon21@gmail.com",
-            "age": 22,
-            "companyId": "1"
+            "name": "Chips small",
+            "desc": "Chips small",
+            "rg_price": 10
         },
         {
             "id": "4",
-            "firstName": "Saurav",
-            "lastName": "Kumar",
-            "email": "saurav@gmail.com",
-            "age": 24,
-            "companyId": "1"
+            "name": "Chips large",
+            "desc": "Chips large",
+            "rg_price": 20
         },
         {
             "id": "5",
-            "firstName": "Devesh",
-            "lastName": "Halankar",
-            "email": "ds@gmail.com",
-            "age": 24,
-            "companyId": "1"
+            "name": "Banana 1kg",
+            "desc": "Banana 1kg",
+            "rg_price": 30
+        },
+        {
+            "id": "6",
+            "name": "Table",
+            "desc": "Wooden table",
+            "rg_price": 1000
         }
     ]
 }
