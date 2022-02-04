@@ -4,12 +4,16 @@
             "id": "1",
             "name": "Water 500ml",
             "desc": "Mineral Water 500ml",
+            "manufacturer": "Bisleri",
+            "stk_qty": 100,
             "rg_price": 10
         },
         {
             "id": "2",
             "name": "Water 1L",
             "desc": "Mineral Water 1L",
+            "manufacturer": "Bisleri",
+            "stk_qty": 50,
             "rg_price": 20
         },
         {
@@ -22,19 +26,33 @@
             "id": "4",
             "name": "Chips large",
             "desc": "Chips large",
+            "manufacturer": "Lays",
+            "stk_qty": 467,
             "rg_price": 20
         },
         {
             "id": "5",
             "name": "Banana 1kg",
             "desc": "Banana 1kg",
+            "manufacturer": "Local",
+            "stk_qty": 40,
             "rg_price": 30
         },
         {
             "id": "6",
             "name": "Table",
             "desc": "Wooden table",
+            "manufacturer": "IKEA",
+            "stk_qty": 7,
             "rg_price": 1000
+        },
+        {
+            "id": "7",
+            "name": "Chair",
+            "desc": "Wooden chair",
+            "manufacturer": "IKEA",
+            "stk_qty": 18,
+            "rg_price": 800
         }
     ]
 }
