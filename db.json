@@ -6,7 +6,9 @@
             "desc": "Mineral Water 500ml",
             "manufacturer": "Bisleri",
             "stk_qty": 100,
-            "rg_price": 10
+            "rg_price": 10,
+            "is_sale_active": false,
+            "sale_discount": 0
         },
         {
             "id": "2",
@@ -14,13 +16,19 @@
             "desc": "Mineral Water 1L",
             "manufacturer": "Bisleri",
             "stk_qty": 50,
-            "rg_price": 20
+            "rg_price": 20,
+            "is_sale_active": false,
+            "sale_discount": 0
         },
         {
             "id": "3",
             "name": "Chips small",
             "desc": "Chips small",
-            "rg_price": 10
+            "manufacturer": "Lays",
+            "stk_qty": 4,
+            "rg_price": 10,
+            "is_sale_active": false,
+            "sale_discount": 0
         },
         {
             "id": "4",
@@ -28,7 +36,9 @@
             "desc": "Chips large",
             "manufacturer": "Lays",
             "stk_qty": 467,
-            "rg_price": 20
+            "rg_price": 20,
+            "is_sale_active": false,
+            "sale_discount": 0
         },
         {
             "id": "5",
@@ -36,7 +46,9 @@
             "desc": "Banana 1kg",
             "manufacturer": "Local",
             "stk_qty": 40,
-            "rg_price": 30
+            "rg_price": 30,
+            "is_sale_active": false,
+            "sale_discount": 0
         },
         {
             "id": "6",
@@ -44,7 +56,9 @@
             "desc": "Wooden table",
             "manufacturer": "IKEA",
             "stk_qty": 7,
-            "rg_price": 1000
+            "rg_price": 1000,
+            "is_sale_active": false,
+            "sale_discount": 0
         },
         {
             "id": "7",
@@ -52,7 +66,9 @@
             "desc": "Wooden chair",
             "manufacturer": "IKEA",
             "stk_qty": 18,
-            "rg_price": 800
+            "rg_price": 800,
+            "is_sale_active": false,
+            "sale_discount": 0
         }
     ]
 }
