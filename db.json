@@ -7,8 +7,8 @@
             "manufacturer": "Bisleri",
             "stk_qty": 100,
             "rg_price": 10,
-            "is_sale_active": false,
-            "sale_discount": 0
+            "is_sale_active": true,
+            "sale_discount": 10
         },
         {
             "id": "2",
@@ -27,8 +27,8 @@
             "manufacturer": "Lays",
             "stk_qty": 4,
             "rg_price": 10,
-            "is_sale_active": false,
-            "sale_discount": 0
+            "is_sale_active": true,
+            "sale_discount": 20
         },
         {
             "id": "4",
@@ -67,8 +67,8 @@
             "manufacturer": "IKEA",
             "stk_qty": 18,
             "rg_price": 800,
-            "is_sale_active": false,
-            "sale_discount": 0
+            "is_sale_active": true,
+            "sale_discount": 20
         }
     ]
 }
